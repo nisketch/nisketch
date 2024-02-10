@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Introduction
 
 **nisketch/nisketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+##  Projects
+   -[profile](https://nisketch.github.io/): A personal website for show casing my work skills and hoe to contact me 
+## Demos
